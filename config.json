@@ -1,6 +1,11 @@
 {
   "cache_time": 7200,
   "api_site": {
-    "http://fty.xxooo.cf/tv"
+    "fty": {
+      "api": "http://fty.xxooo.cf/tv",
+      "name": "饭太硬",
+      "detail": ""
+    }
+    
   }
 }
